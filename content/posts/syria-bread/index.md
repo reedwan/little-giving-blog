@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Baking bread for refugees in Idlib, Syria"
+title: "A bakery for refugee families in Idlib, Syria"
 date: 2023-02-10T00:00:00+00:00
 caption: "Courtyard of the Great Mosque of Maarat al-Numan in Idlib"
 ---
