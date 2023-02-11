@@ -14,7 +14,7 @@ Recipients were mainly refugees living in camps or temporary shelter in Idlib an
 
 ![Dough is kneaded and shaped with the help of machinery](a.jpg)
 
-![Baked bread comes out of the oven on a conveyor belt for cooling and packaging](b.jpg)
+![Baked bread comes out of the oven on a conveyor belt for cooling and packing](b.jpg)
 
 ![Packs of bread are loaded onto trays, ready for distribution](c.jpg)
 
