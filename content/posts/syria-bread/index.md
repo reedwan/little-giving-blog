@@ -1,11 +1,11 @@
 ---
 draft: false
 title: "A bakery for refugee families in Idlib, Syria"
-date: 2023-02-10T00:00:00+00:00
+date: 2023-10-10T00:00:00+00:00
 caption: "Courtyard of the Great Mosque of Maarat al-Numan in Idlib"
 ---
 
-Over the past two years, Ummah Welfare Trust (UWT) have facilitated daily bread distribution in Syria for Little Giving users.
+Ummah Welfare Trust (UWT) have facilitated daily bread distribution in Syria for Little Giving users since April 2021.
 
 The charity ran a bakery in Idlib, distributing packs of bread to 6,200 families (about 30,000 people), six days a week. Little Giving users made up about 4% of that figure (about 1,000 people a day for 18 months).
 

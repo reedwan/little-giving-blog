@@ -5,11 +5,11 @@ date: 2022-10-07T00:00:00+00:00
 caption: "A girl walks across the Blue Mosque in Mazar-e-Sharif, Afghanistan"
 ---
 
-Over the last few months Mothers of Afghanistan have been facilitating daily bread distribution in Kabul, on behalf of Little Giving users. 
+Since January 2022, Mothers of Afghanistan have been facilitating daily bread distribution in Kabul, on behalf of Little Giving users. 
 
 Mothers of Afghanistan is a UK registered charity ([1190531](https://register-of-charities.charitycommission.gov.uk/charity-search/-/charity-details/5152229)) that works in Kabul, Jalalabad, Paktika and other areas of Afghanistan. 
 
-In Kabul, Mothers of Afghanistan have set up a bread voucher scheme for poor families and widows. Families are assessed and given vouchers which they can use to collect freshly baked bread from local bakeries. Currently 230 naan breads are collected by families every day with donations from Little Giving users.
+In Kabul, Mothers of Afghanistan have set up a bread voucher scheme for poor families and widows. Families are assessed and given vouchers which they can use to collect freshly baked bread from local bakeries. Currently (October 2022) 230 naan breads are collected by families every day with donations from Little Giving users.
 
 ![Mothers of Afghanistan staff give bread vouches to widows](b.jpg)
 

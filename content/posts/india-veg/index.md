@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "A network for distributing daily vegetables in rural India"
-date: 2022-12-02T00:00:00+00:00
+date: 2023-04-02T00:00:00+00:00
 caption: "A woman sweeps the historic Kherur Mosque in West Bengal, India"
 ---
 
@@ -11,7 +11,7 @@ The trust based in Forest Gate (London) distributes vegetables across 60 village
 
 Many villagers, in the areas where the trust works, live below the poverty line (25p a day) and stay in makeshift huts made of wood and plastic sheeting. 
 
-Currently 550 families receive vegetables every day. About 20% of that is through donations from Little Giving users.
+As of December 2022, 550 families received vegetables daily. About 20% of that is through donations from Little Giving users.
 
 ![Vegetables being sorted at a maktab for distribution](a.jpg)
 

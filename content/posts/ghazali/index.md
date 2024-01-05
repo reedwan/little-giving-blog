@@ -1,8 +1,8 @@
 ---
 draft: false
 title: "Imam Ghazali on the excellence of sadaqah"
-date: 2023-01-06T00:00:00+00:00
-caption: "A spread from a 9th century (Hijri) manuscript of Ihya Ulum al-Din"
+date: 2023-07-06T00:00:00+00:00
+caption: "A spread from a 9th century (Hijri) manuscript of the Ihya"
 ---
 
 **Among the hadith [on the excellence of sadaqah, are the following]:** The Messenger (sallallahu alayhi wa-sallam) said, "Give in charity, though it be only a single date, for it satisfies the hungry and extinguishes sins just as water extinguishes fire." (Ibn Mubarak)
@@ -77,4 +77,4 @@ And it is said that a slave trader once passed by Hasan [Basri] (rahimahullah) w
 
 ---
 
-Kitab Asrar al‑Zakat wa-Muhimatiha, Ihya Ulum al-Din, Imam Ghazali (rahimahullah)
+The Book of Charity, Revival of Religous Sciences, Imam Ghazali (rahimahullah)
