@@ -1,7 +1,7 @@
-baseURL = 'https://journal.littlegiving.org/'
+baseURL = 'https://blog.littlegiving.org/'
 canonifyurls = true
 languageCode = 'en-gb'
-title = 'Little Giving Journal'
+title = 'Little Giving Blog'
 theme = ['littlegiving']
 disableKinds = ["home", "taxonomy", "term"]
 ignoreErrors = ["error-disable-taxonomy"]
