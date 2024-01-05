@@ -5,16 +5,14 @@
 		<div class="columns is-centered">
 			<div class="column is-10">
 
-				<!--
 				<div class="mb-5">
-				<a class="button is-link has-background-white has-text-dark ml-2 pl-0" href="https://journal.littlegiving.org">
+				<a class="button is-link has-background-white has-text-dark ml-2 pl-0" href="https://blog.littlegiving.org">
 					<span class="icon">
 						<i class="fas fa-lg fa-arrow-left"></i>
 					</span>
-					<span class="subtitle ml-3 is-underlined has-text-black">Little Giving Journal</span>
+					<span class="subtitle ml-3 is-underlined has-text-black">Little Giving Blog</span>
 				</a>
 				</div>
-				-->
 
 				{{ with .Resources.GetMatch "header.jpg" }}
 				{{ $image := .Fill "1600x800" }}
@@ -28,7 +26,7 @@
 					{{ .Title }}
 				</h2>
 				<p class="mb-6">
-					Little Giving Blog, {{ .Date.Format "January 2006" }}<br>{{ math.Round (div (countwords .Content) 100.0) }} minute read
+					{{ .Date.Format "January 2006" }}<br>{{ math.Round (div (countwords .Content) 100.0) }} minute read
 				</p>
 				{{ .Content }}
 
