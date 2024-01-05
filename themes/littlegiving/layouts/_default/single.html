@@ -5,12 +5,12 @@
 		<div class="columns is-centered">
 			<div class="column is-10">
 
-				<div class="mb-5">
+				<div class="mb-5 pb-1">
 				<a class="button is-link has-background-white has-text-dark ml-2 pl-0" href="https://blog.littlegiving.org">
 					<span class="icon">
 						<i class="fas fa-lg fa-arrow-left"></i>
 					</span>
-					<span class="subtitle ml-3 is-underlined has-text-black">Little Giving Blog</span>
+					<span class="subtitle ml-2 is-underlined has-text-black">Little Giving Blog</span>
 				</a>
 				</div>
 
@@ -26,7 +26,7 @@
 					{{ .Title }}
 				</h2>
 				<p class="mb-6">
-					{{ .Date.Format "January 2006" }}<br>{{ math.Round (div (countwords .Content) 100.0) }} minute read
+					{{ .Date.Format "January 2006" }}, {{ math.Round (div (countwords .Content) 100.0) }} minute read
 				</p>
 				{{ .Content }}
 
