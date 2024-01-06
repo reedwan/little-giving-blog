@@ -15,7 +15,7 @@ As of August 2023, 50,200 meals have been provided across five camps in the area
 
 ![Girls receive meals at a shelter overseen by Lonely Orphans](b.jpg)
 
-![Boys pose for a photo at a shelter overseen by Lonely Orphans](c.jpg)
+![Boys line up for a photo at a shelter overseen by Lonely Orphans](c.jpg)
 
 You can contribute to this project by selecting Lonely Orphans as one of the charities you give to daily on Little Giving.
 
