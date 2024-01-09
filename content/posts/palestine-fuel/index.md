@@ -9,11 +9,11 @@ Users of Little Giving can now contribute a few pence every day to supply fuel f
 
 The Palestine Red Crescent is the main provider of emergency medical care in Palestine. They operate multiple medical facilities, including hospitals and clinics, and provide disaster relief and social welfare services.
 
-Fuel plays a critical role in supporting almost all humanitarian functions, including power generation, water treatment, and the operation of machinery and vehicles.
+Fuel plays a crucial role in supporting almost all humanitarian functions, including electricity generation, water treatment, and the operation of machinery and vehicles.
 
-The Messenger (sallallahu alayhi wasallam) when asked about the virtues of Batul Maqdis (Jerusalem), advised: *Send some oil to be lit therein* (Sharh Mushkilul Athar).
+The Messenger (sallallahu alayhi wasallam) when asked about the virtues of Baitul Maqdis (Al-Aqsa), advised: *Send some oil to be lit therein* (Sharh Mushkilul Athar).
 
-Little Giving have partnered with the Palestine Red Crescent to provide fuel for their emergency and humanitarian programmes through daily sadaqah contributions. The Palestine Red Crescent has committed to use 100% of funds for the agreed cause, without deductions for general administration or fundraising.
+Little Giving have partnered with the Palestine Red Crescent to provide fuel for their emergency and humanitarian programmes through daily sadaqah contributions. The Palestine Red Crescent has committed to use 100% of funds for the agreed cause, without deductions for administration or fundraising.
 
 ![Paramedics from the Palestine Red Crescent attempt to reach injured individuals in a conflict area](a.jpg)
 
