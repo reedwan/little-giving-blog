@@ -11,7 +11,7 @@ The Palestine Red Crescent is the main provider of emergency medical care in Pal
 
 Fuel plays a critical role in supporting almost all humanitarian functions, including power generation, water treatment, and the operation of machinery and vehicles.
 
-The Messenger (sallallahu alayhi wasallam) when asked about the virtues of Batul Maqdis (Jerusalem), advised: "Send some oil to be lit therein" (Sharḥ Mushkilul Athar). 
+The Messenger (sallallahu alayhi wasallam) when asked about the virtues of Batul Maqdis (Jerusalem), advised: **"Send some oil to be lit therein"** (Sharḥ Mushkilul Athar).
 
 The Palestine Red Crescent has partnered with Little Giving to facilitate daily sadaqah contributions to provide fuel for their emergency and humanitarian programmes. They have committed to use 100% of funds for the agreed cause, without deductions for general administration or fundraising.
 
