@@ -13,7 +13,7 @@ Fuel plays a critical role in supporting almost all humanitarian functions, incl
 
 The Messenger (sallallahu alayhi wasallam) when asked about the virtues of Batul Maqdis (Jerusalem), advised: *Send some oil to be lit therein* (Sharh Mushkilul Athar).
 
-The Palestine Red Crescent has partnered with Little Giving to facilitate daily sadaqah contributions to provide fuel for their emergency and humanitarian programmes. They have committed to use 100% of funds for the agreed cause, without deductions for general administration or fundraising.
+Little Giving have partnered with the Palestine Red Crescent to provide fuel for their emergency and humanitarian programmes through daily sadaqah contributions. The Palestine Red Crescent has committed to use 100% of funds for the agreed cause, without deductions for general administration or fundraising.
 
 ![Paramedics from the Palestine Red Crescent attempt to reach injured individuals in a conflict area](a.jpg)
 
