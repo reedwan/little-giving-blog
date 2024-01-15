@@ -24,10 +24,10 @@ It was the practice of the salaf to teach their children about the intention in 
 
 1. Intend to draw closer to Allah Most High
 2. Intend to shield yourself from the anger of the Lord by it¹
-3. Intend to shiled yourself from the Hellfire²
+3. Intend to shield yourself from the Hellfire²
 4. Indent to show mercy to your brethren
 5. Intend, if giving to a relative, to strengthen the ties of kinship
-6. Intend to assit the weak
+6. Intend to assist the weak
 7. Intend to follow the example of the Messenger (sallallahu alayhi wa-sallam)
 8. Intend to bring joy to your brethren³
 9. Intend that by it you may protect and shield yourself, and all Muslims, from calamities
