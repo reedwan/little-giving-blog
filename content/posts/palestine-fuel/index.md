@@ -5,7 +5,7 @@ date: 2024-04-01T00:00:00+00:00
 caption: "A view of the Qibli Mosque framed by ancient olive trees in the Al-Aqsa compound"
 ---
 
-Users of Little Giving can contribute a few pence every day to supply fuel for emergency and humanitarian programmes run by the Palestine Red Crescent in Gaza and the West Bank.
+Little Giving users can contribute a few pence every day to supply fuel for emergency and humanitarian programmes run by the Palestine Red Crescent in Gaza and the West Bank.
 
 The Palestine Red Crescent is the main provider of emergency medical care in Palestine. They operate multiple medical facilities, including hospitals and clinics, and provide disaster relief and social welfare services.
 
