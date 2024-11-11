@@ -17,7 +17,9 @@ Little Giving have partnered with the Palestine Red Crescent to provide fuel for
 
 ![Paramedics from the Palestine Red Crescent attempt to reach injured individuals in a conflict area](a.jpg)
 
+<!---
 ![Families shelter at the Al-Quds Hospital in Gaza City, run by the Palestine Red Crescent](b.jpg)
+--->
 
 ![The Palestine Red Crescent and UNRWA coordinate the entry of humanitarian aid into Gaza](c.jpg)
 
